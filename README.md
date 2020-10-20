@@ -34,11 +34,14 @@ Example:
 - Github: https://github.com/Garima-sharma814
 ***
 ```
+*Keep the size of the photo as 200/200*
+
 4. Now Commit your changes by pressing the `Commit Changes` button in green colour at the bottom.
 5. Create a new pull request from your forked repository (Button located at the top of your repo)
 6. Star this repository!
+
 ### And if you successfully participated and contributed to open source repositories.
- - You gonna win T-Shirts and many more.
+ - You gonna win T-Shirts and many more (*Mine is on the way*).
  - HacktoberFest's swaglist contains a lot of surprises.
  - HacktoberFest [Swag List](https://hacktoberfestswaglist.com/) 
 
