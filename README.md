@@ -42,6 +42,7 @@ Example:
 
 ### And if you successfully participated and contributed to open source repositories.
  - You gonna win T-Shirts and many more (*Mine is on the way*).
+ - These T-Shirts, stickers etc are know as **Swags**.
  - HacktoberFest's swaglist contains a lot of surprises.
  - HacktoberFest [Swag List](https://hacktoberfestswaglist.com/) 
 
