@@ -24,6 +24,7 @@
 - Photo: YOUR PHOTO URL(You can submit any Image from Internet)
 - Location: COUNTRY
 - Github: YOUR GITHUB URL
+***
 ```
 Example:
 
@@ -32,6 +33,7 @@ Example:
 - Photo: https://your_image_url
 - Location: India
 - Github: https://github.com/Garima-sharma814
+***
 ```
 *Keep the size of the photo as 200/200*
 
