@@ -48,7 +48,12 @@ Example:
  - HacktoberFest [Swag List](https://hacktoberfestswaglist.com/) 
 
 ### Connect with me  
-[My GitHub](https://github.com/Garima-sharma814)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/garimavatss) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/garima.vatss/?r=nametag) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCheHxaUY0R5NWDDXLa5siWQ?view_as=subscriber) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://m.me/garima.vats.143) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/Garima-sharma814) 
+[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/garima-sharma-6621701b3) 
 </a>
 <br>
 
