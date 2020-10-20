@@ -58,7 +58,7 @@ Example:
 <br>
 
 ## License 
-I believe in freedom and improvements. :) [GNU General Public License v3.0](https://github.com/Garima-sharma814/Hacktober-Fest-2020/blob/master/LICENSE)
+I believe in freedom and improvements :) [GNU General Public License v3.0](https://github.com/Garima-sharma814/Hacktober-Fest-2020/blob/master/LICENSE)
 
 ***
 ## My contributors :
