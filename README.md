@@ -1,5 +1,5 @@
 # Hacktober-Fest-2020
-### Get your Free T-shirt and awesome stickers now!.
+### Get your Free T-shirt and awesome stickers now!
 
 - How can I win a free T-shirt ? 
   -  Create your first Pull Request(PR).
