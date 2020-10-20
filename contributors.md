@@ -1,2 +1,2 @@
-# Hey contributor so gratefull to see you here! 
+# Hey contributor so grateful to see you here! 
 - Add your details.
