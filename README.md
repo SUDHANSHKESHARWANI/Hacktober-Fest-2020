@@ -47,7 +47,7 @@ Example:
  - HacktoberFest's swaglist contains a lot of surprises.
  - HacktoberFest [Swag List](https://hacktoberfestswaglist.com/) 
 
-### Connect with me  
+### Wanna Talk? 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/garimavatss) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/garima.vatss/?r=nametag) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='25'>](https://www.youtube.com/channel/UCheHxaUY0R5NWDDXLa5siWQ?view_as=subscriber) 
