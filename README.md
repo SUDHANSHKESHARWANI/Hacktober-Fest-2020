@@ -60,7 +60,6 @@ Example:
 ## License 
 I believe in freedom and improvements :) [GNU General Public License v3.0](https://github.com/Garima-sharma814/Hacktober-Fest-2020/blob/master/LICENSE)
 
-***
 ## My contributors :
 <a href="https://github.com/Garima-sharma814/Hacktober-Fest-2020/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Garima-sharma814/Hacktober-Fest-2020" />
