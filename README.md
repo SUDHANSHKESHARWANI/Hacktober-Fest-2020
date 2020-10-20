@@ -15,7 +15,7 @@
 - If you're a beginner thats completely fine.
 - Follow the steps given below.
 - You need to create your Pull Request to maybe this or any open source repository.
-1. Fork this repository by click the [Fork](https://github.com/Garima-sharma814/HacktoberFest/fork) button in the top right of this page .
+1. Fork this repository by clicking the [Fork](https://github.com/Garima-sharma814/HacktoberFest/fork) button in the top right of this page .
 2. Go to `contributors.md` and add your details.
 3. Write your details in `countributors.md` (make your short profile as the following example):
 ```
@@ -47,9 +47,10 @@ Example:
 </a>
 <br>
 
+## License 
+I believe in freedom and improvements. :) [GNU General Public License v3.0](https://github.com/Garima-sharma814/Hacktober-Fest-2020/blob/master/LICENSE)
 
 ***
-
 ## My contributors :
 <a href="https://github.com/Garima-sharma814/HacktoberFest/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Garima-sharma814/Hacktober-Fest-2020" />
