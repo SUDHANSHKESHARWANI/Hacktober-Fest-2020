@@ -45,7 +45,8 @@ Example:
 ### Add your details to `contributors.md`
 - details are given above 
 ### Create a *`Hello World`* script 
-- Script is to be made in the `scripts` folder.
+- Script is to be by the `Name_scripts`.
+- Go to `Add a file` and add your script.
 - Script can be in any of your favourite language.
 - Or the language you prefer the most.
 
