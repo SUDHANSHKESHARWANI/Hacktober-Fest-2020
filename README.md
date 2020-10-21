@@ -55,7 +55,6 @@ Example:
 - Directly copy this command and paste in ** Git Bash**.
 ```
 git clone git@github.com:Garima-sharma814/Hacktober-Fest-2020.git
-
 ```
 - Commit your changes.
 - And push.
