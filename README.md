@@ -41,6 +41,14 @@ Example:
 5. Create a new pull request from your forked repository (Button located at the top of your repo)
 6. Star this repository!
 
+## Choose one theese tasks or both
+### Add your details to `contributors.md`
+- details are given above 
+### Create a `Hello World` script 
+- Script is to be made in the `scripts` folder.
+- Script can be in any of your favourite language.
+- Or the language you prefer the most.
+
 ### And if you successfully participated and contributed to open source repositories.
  - You gonna win T-Shirts and many more (*Mine is on the way*).
  - These T-Shirts, stickers etc are know as **Swags**.
