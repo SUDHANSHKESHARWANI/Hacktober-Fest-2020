@@ -45,11 +45,23 @@ Example:
 ### Add your details to `contributors.md`
 - details are given above 
 ### Create a *`Hello World`* script 
-- Script is to be by the `Name_scripts`.
+- Script is to be added in the `My_Scripts` folder by your name.
 - Go to `Add a file` and add your script.
 - Script can be in any of your favourite language.
 - Or the language you prefer the most.
 
+### Alternative method 
+- Clone this repository.
+- Directly copy this command and paste in ** Git Bash**.
+```
+git clone git@github.com:Garima-sharma814/Hacktober-Fest-2020.git
+
+```
+- Commit your changes.
+- And push.
+``` 
+git push origin master
+```
 ### And if you successfully participated and contributed to open source repositories.
  - You gonna win T-Shirts and many more (*Mine is on the way*).
  - These T-Shirts, stickers etc are know as **Swags**.
