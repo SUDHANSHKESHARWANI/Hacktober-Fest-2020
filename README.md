@@ -43,7 +43,7 @@ Example:
 
 ## Choose one these tasks or all.
 ### Add your details to `contributors.md`
-- details are given above 
+- [Details](#Steps-:-) are given above 
 
 ### Create a *`Hello World`* script 
 - Script is to be added in the `My_Scripts` folder by your name.
