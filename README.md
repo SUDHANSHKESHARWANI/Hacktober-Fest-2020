@@ -44,7 +44,7 @@ Example:
 ## Choose one theese tasks or both
 ### Add your details to `contributors.md`
 - details are given above 
-### Create a `Hello World` script 
+### Create a *`Hello World`* script 
 - Script is to be made in the `scripts` folder.
 - Script can be in any of your favourite language.
 - Or the language you prefer the most.
