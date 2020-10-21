@@ -7,7 +7,7 @@
 ## What is Hacktoberfest?
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration of open source software run by [DigitalOcean](https://hacktoberfest.digitalocean.com/) in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in the global community! A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and GitHub to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-[https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+[HacktoberFest](https://hacktoberfest.digitalocean.com/)
 
 # How Can I Contribute? 
 - Its very simple.
@@ -35,22 +35,28 @@ Example:
 - Github: https://github.com/Garima-sharma814
 ***
 ```
-*Keep the size of the photo as 200/200*
+*Keep the size of the image as 200/200*
 
 4. Now Commit your changes by pressing the `Commit Changes` button in green colour at the bottom.
 5. Create a new pull request from your forked repository (Button located at the top of your repo)
 6. Star this repository!
 
-## Choose one theese tasks or both
+## Choose one these tasks or all.
 ### Add your details to `contributors.md`
 - details are given above 
+
 ### Create a *`Hello World`* script 
 - Script is to be added in the `My_Scripts` folder by your name.
 - Go to `Add a file` and add your script.
 - Script can be in any of your favourite language.
 - Or the language you prefer the most.
 
-### Alternative method 
+*Name of the script should be as*
+
+`Hello_world_YourName.xx` eg `Hello_world_Garima.py` or `Hello_world_Garima.cpp`
+
+
+## Alternative method 
 - Clone this repository.
 - Directly copy this command and paste in **Git Bash**.
 ```
@@ -60,7 +66,7 @@ git clone git@github.com:Garima-sharma814/Hacktober-Fest-2020.git
 - And push.
 ``` 
 git push origin master
-```
+``` 
 ### And if you successfully participated and contributed to open source repositories.
  - You gonna win T-Shirts and many more (*Mine is on the way*).
  - These T-Shirts, stickers etc are know as **Swags**.
