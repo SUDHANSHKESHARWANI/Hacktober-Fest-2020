@@ -1,4 +1,6 @@
 # Hacktober-Fest-2020
+[![Updated Badge](https://badges.pufler.dev/updated/Garima-sharma814/Hacktober-Fest-2020)](https://github.com/Garima-sharma814/Hacktober-Fest-2020)
+[![Created Badge](https://badges.pufler.dev/created/Garima-sharma814/Hacktober-Fest-2020)](https://Garima-sharma814/Hacktober-Fest-2020)
 ### Get your Free T-shirt and awesome stickers now!
 
 - How can I win a free T-shirt ? 
